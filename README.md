@@ -67,7 +67,7 @@ This dataset is made up of a single table of data with 16 columns and 6,091 rows
 
 ### Data Cleaning, Transformation and Loading using the Excel and Power Query Editor:
 1. Changed the columns
-
+2. Teh total number of data rows before cleaning was 6,091 rows and it was reduced to 5,940 rows after cleaning.
 
 
 
@@ -98,5 +98,7 @@ No data modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
-- The Total Number of Restaurants is __130.__
+- The Total Number of Shark Attack Cases is __5940.__
+- The Total Number of Survivors are __4,241.__
+- The Total Number of Fatalities are __1,515.__
 
