@@ -183,7 +183,7 @@ From the analysis, i made the following Key findings below:
 
 
 
-- <img src="images/Top10_Cases_By_Injury_Type.jpg" width="300">
+- <img src="images/Top10_Cases_By_Injury_Type.jpg" width="400">
 - **Top 10 Cases By Injury Type:**
 - This analysis provides insights into the specific anatomical areas commonly affected during such encounters. Below is an analysis of the key observations and trends:
 - __Predominance of Limb Injuries:__ The majority of reported shark attack injuries involve bites to limbs, particularly the feet, legs, hands, and arms. This highlights the vulnerability of extremities during shark encounters, as these body parts are often exposed and within reach of a shark's jaws during swimming, surfing, or other water-based activities.
