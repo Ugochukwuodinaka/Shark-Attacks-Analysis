@@ -27,7 +27,7 @@ The "Sharks Attacks Analysis" project aims to investigate and analyze global sha
 
 
 ### Dataset Overview
-The dataset used in this analysis is the "Attacks.csv" and was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The "Attacks.csv" dataset contains information on shark attacks documented over a period of time. The dataset provides insights into various aspects of shark-human interactions, including the location, date, time, severity of injuries, shark species involved, and other relevant details pertaining to each recorded shark attack incident. You can access the dataset [here]().
+The dataset used in this analysis is the "Attacks.csv" and was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The "Attacks.csv" dataset contains information on shark attacks documented over a period of time. The dataset provides insights into various aspects of shark-human interactions, including the location, date, time, severity of injuries, shark species involved, and other relevant details pertaining to each recorded shark attack incident. You can access the dataset [here](attacks.csv).
 
 This dataset is made up of a single table of data with 16 columns and 6,091 rows of data. Below is a description of the columns in this dataset for a better understanding of this analysis:
 - __Case Number:__ A unique identifier for each shark attack incident.
@@ -65,5 +65,38 @@ This dataset is made up of a single table of data with 16 columns and 6,091 rows
         6. Button
 
 
-### Data Cleaning, Transformation and Loading using the Power Query Editor:
+### Data Cleaning, Transformation and Loading using the Excel and Power Query Editor:
 1. Changed the columns
+
+
+
+
+
+**Raw Data**
+- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](attacks.csv).
+
+![](Raw_File_Screenshot.png)
+
+**Final Power Query Editor screenshot**
+- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Maternal-Health-Risk-Analysis/blob/main/MATERNAL%20HEALTH%20RISK%20ANALYSIS.pbix).
+
+![](Power_Query_File_Screenshot.png)
+
+
+
+## Data Modelling
+No data modelling was required since we need just a table for the analysis.
+
+
+
+## Visualization in Power BI:
+#### Report View 1
+![](Shark_Attacks_Analysis_Dashboard1.jpg)
+
+#### Report View 2
+![](Shark_Attacks_Analysis_Dashboard2.jpg)
+
+### Project Analysis:
+From the analysis, i made the following Key findings below:
+- The Total Number of Restaurants is __130.__
+
