@@ -1,6 +1,15 @@
 # Shark Attacks Analysis (1900-2017)
 ![](images/Sharks_Attacks_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations On Mitigating Shark Attack Risks](#recommendations-on-mitigating-shark-attack-risks)
+
 
 ## Project Overview
 
@@ -184,4 +193,11 @@ From the analysis, i made the following Key findings below:
 
 
 ## Visuals in Power BI Report:
-You can view and interact with this dashboard report on Shark Attacks (1900-2017) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiYWVhNDM2NjItOTljOC00NjZiLTgyYzUtYWE0NTdhNzU3Yzk1IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+You can view and interact with this dashboard report on Shark Attacks (1900-2017) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiNzkwNjNhNTktZDUzZi00NzhhLThlYWQtY2IxOGYwMzliMDQyIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+
+## Recommendations On Mitigating Shark Attack Risks:
+- __Public Education:__ Awareness campaigns should be conducted on shark behavior and risks and also, guidelines should be provided to avoid high-risk behaviors near shorelines.
+- __Beach Safety:__ There should be increased lifeguard presence and installation of warning signs. Technology should be utilized for real-time shark detection and alerts.
+- __Technology and Innovation:__ There should be an investment in shark repellent technologies and a development of wearable safety devices for water enthusiasts.
+- __Fisheries Management:__ There should be an implementation of sustainable fishing practices to maintain healthy shark populations and also, a collaboration with fishing communities to reduce incidental catches.
+- __Community Engagement:__ There should be a collaboration fostered among stakeholders for comprehensive strategies, a promotion of citizen science initiatives and beach clean-ups for community involvement
