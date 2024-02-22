@@ -1,5 +1,5 @@
 # Sharks Attacks Analysis
-![](Sharks_Attacks_Image%20(2).jpg)
+![](images/Sharks_Attacks_image.jpg)
 
 
 ## Project Overview
@@ -75,12 +75,12 @@ This dataset is made up of a single table of data with 16 columns and 6,091 rows
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](attacks.csv).
 
-![](Raw_File_Screenshot.png)
+![](images/Raw_File_Screenshot.png)
 
 **Final Power Query Editor screenshot**
 - Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Maternal-Health-Risk-Analysis/blob/main/MATERNAL%20HEALTH%20RISK%20ANALYSIS.pbix).
 
-![](Power_Query_File_Screenshot.png)
+![](images/Power_Query_File_Screenshot.png)
 
 
 
@@ -91,10 +91,10 @@ No data modelling was required since we need just a table for the analysis.
 
 ## Visualization in Power BI:
 #### Report View 1
-![](Shark_Attacks_Analysis_Dashboard1.jpg)
+![](images/Shark_Attacks_Analysis_Dashboard1.jpg)
 
 #### Report View 2
-![](Shark_Attacks_Analysis_Dashboard2.jpg)
+![](images/Shark_Attacks_Analysis_Dashboard2.jpg)
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
