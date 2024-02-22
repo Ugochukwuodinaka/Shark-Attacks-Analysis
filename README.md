@@ -165,7 +165,7 @@ From the analysis, i made the following Key findings below:
 - __Recent Trends:__ In more recent years, the data shows a general increase in the number of reported shark attacks, with notable peaks observed in the early 2000s and mid-2010s. While improvements in data collection and reporting may contribute to some extent to the observed increase, changes in human behavior, coastal recreational activities, and environmental factors may also play significant roles in shaping recent trends in shark attack activity.
 
 
-- <img src="images/Number_of_Cases_By_Age_Band.jpg" width="300">
+- <img src="images/Number_of_Cases_By_Age_Band.jpg" width="250">
 - **Number of Cases By Age Band:**
 - This analysis provides valuable insights into the demographic distribution of shark-human interactions and the associated risk factors for different age groups. Observations and insights below:
 - __Adult Predominance:__ Adults comprise the majority of individuals involved in shark attack incidents, accounting for 2,360 cases, or approximately 70.53% of the total cases. This finding is consistent with the notion that adults are more likely to engage in water-based activities such as surfing, swimming, and diving, which may increase their exposure to potential shark encounters. The high percentage of adult victims underscores the importance of targeted beach safety measures and public awareness campaigns aimed at this demographic group.
