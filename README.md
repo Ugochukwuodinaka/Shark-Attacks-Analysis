@@ -1,11 +1,11 @@
-# Shark Attacks Analysis
+# Shark Attacks Analysis (1900-2017)
 ![](images/Sharks_Attacks_image.jpg)
 
 
 ## Project Overview
 
 ### Introduction:
-The "Shark Attacks Analysis" project aims to investigate and analyze global shark attack data to gain insights into the patterns, trends, and factors associated with shark attacks. Through the examining of this data, geographical locations, species involved, environmental conditions, and human activities, the project seeks to provide an understanding of shark attacks, their frequency, and potential risk factors. Sharks Atacks Analysis contains Shark attacks reported over the past 100 years, including location, activity, victim info (name, gender, age), shark species, etc. The project aims to explore and analyze sharks attacks all around the world.
+The __Shark Attacks Analysis (1900-2017)__ project aims to investigate and analyze global shark attack data to gain insights into the patterns, trends, and factors associated with shark attacks. Through the examining of this data, geographical locations, species involved, environmental conditions, and human activities, the project seeks to provide an understanding of shark attacks, their frequency, and potential risk factors. Sharks Atacks Analysis contains Shark attacks reported over the past 100 years, including location, activity, victim info (name, gender, age), shark species, etc. The project aims to explore and analyze sharks attacks all around the world.
 
 
 ### Objectives:
@@ -138,6 +138,15 @@ From the analysis, i made the following Key findings below:
 - __Fatalities:__ Despite the relatively high survival rate, a significant number of shark attack cases resulted in fatalities, with 1,515 deaths reported. Fatalities represent approximately 25.45% of all reported cases, highlighting the serious and potentially life-threatening nature of shark attacks. 
 - __Unknown Outcomes:__ A small proportion of shark attack cases (96 instances) have unknown survivor or fatality status, accounting for approximately 1.61% of the total cases. The absence of information regarding the outcome of these cases shows the need for a better data collection and reporting strategy to ensure accurate assessment and analysis of shark attack incidents.
 
-- <img src="images/Number_of_Cases_By_Survivors_vs_Fatalities.jpg" width="300">
-- **Number of Cases By Survivors or Fatalities:**
-- This data analysis
+- <img src="images/Top10_Countries_With_Most_No_of__Cases_By_Casualties_%26_Fatalities.jpg" width="300">
+- **Top 10 Countries With Most Number of Cases By Surivors and Fatalities:**
+- This analysis is on the top 10 countries with the most number of shark attack cases, categorized by survivors and fatalities. Below are some key observations and insights:
+- __United States (USA) Tops:__ The United States emerges as the country with the highest number of reported shark attack cases, totaling 2,140 incidents. Despite the high number of cases, the majority of individuals involved in shark attacks in the USA survived, with 1,868 cases recorded as survivors. However, fatalities still occurred, with 248 reported deaths. The USA's coastal regions, particularly in states such as Florida, California, and Hawaii, are known for their high shark activity, attracting both tourists and residents engaged in water-based activities.
+- __Australia and South Africa:__ Australia and South Africa follow closely behind the USA in terms of reported shark attack cases. Australia recorded 1,287 cases, with a relatively high number of fatalities (334) compared to survivors (928). South Africa reported 560 cases, with 425 survivors and 130 fatalities. These countries are renowned for their diverse marine ecosystems and attract water enthusiasts from around the world, contributing to the frequency of shark-human interactions.
+- __Varied Survivor-Fatality Ratios:__ The data reveals varying survivor-fatality ratios across different countries. For instance, Papua New Guinea reported 129 cases, with 73 survivors and 54 fatalities, indicating a relatively high fatality rate compared to other countries. In contrast, countries like the Bahamas and New Zealand recorded lower fatality rates, with a higher proportion of survivors compared to fatalities.
+- __Factors Influencing Survivorship:__ Factors such as prompt medical attention, access to emergency services, and public awareness of shark attack risks can influence survivorship rates. Countries with well-developed emergency response systems and public safety campaigns may have higher survivorship rates, as seen in the case of the USA and Australia.
+
+
+- <img src="images/Shark_Attacks_Trend_By_Year_Since_1900.jpg" width="450">
+- **Shark Attack Trend By Year Since 1900:**
+- This analysis 
