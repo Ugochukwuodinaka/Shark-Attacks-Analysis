@@ -82,7 +82,7 @@ This dataset is made up of a single table of data with 16 columns and 6,091 rows
 
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](attacks.csv).
+- Below a screenshot of a part of the raw data in .csv file format. You can access the dataset [here](attacks.csv).
 
 ![](images/Raw_File_Screenshot.png)
 
