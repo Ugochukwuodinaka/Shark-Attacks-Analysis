@@ -98,7 +98,7 @@ No data modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
-- The Total Number of Shark Attack Cases is __5,940.__
-- The Total Number of Survivors are __4,241.__
+- The Total Number of Shark Attack Cases is __5,956.__
+- The Total Number of Survivors are __4,341.__
 - The Total Number of Fatalities are __1,515.__
 
