@@ -87,7 +87,7 @@ This dataset is made up of a single table of data with 16 columns and 6,091 rows
 ![](images/Raw_File_Screenshot.png)
 
 **Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Maternal-Health-Risk-Analysis/blob/main/MATERNAL%20HEALTH%20RISK%20ANALYSIS.pbix).
+- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Shark-Attacks-Analysis/blob/main/SHARK%20ATTACKS%20DATA%20ANALYSIS.pbix).
 
 ![](images/Power_Query_File_Screenshot.png)
 
