@@ -102,6 +102,6 @@ From the analysis, i made the following Key findings below:
 - The Total Number of Survivors are __4,341.__
 - The Total Number of Fatalities are __1,515.__
 
-- <img src="images/No_of_Cases_By_Activity.jpg" width="350">
+- <img src="images/No_of_Cases_By_Activity.jpg" width="300">
 - **Casualtiy Cases By Activity:**
 - In this analysis
