@@ -104,4 +104,11 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Top10_Cases_By_Activity.jpg" width="300">
 - **Casualty Cases By Activity:**
-- In this analysis
+- In my analysis of the top 10 shark attack cases by activity, valuable insights are provided into the activities most commonly associated with shark-human interactions. Here are some key observations and insights derived from the provided information:
+- __Surfing Tops:__ Surfing emerges as the activity with the highest number of shark attack cases, totaling 934 incidents. This finding is consistent with the known behavior of sharks, which may mistake surfers paddling on surfboards for prey due to their silhouette and movement resembling that of potential prey species.
+- __Swimming Vulnerability:__ Swimming ranks second in terms of shark attack cases, with 861 incidents recorded. Swimmers often spend extended periods in the water, potentially increasing the likelihood of encountering sharks. Additionally, swimmers may inadvertently attract sharks by splashing and creating disturbance in the water.
+- __Fishing and Spear Fishing:__ Fishing-related activities, including fishing and spear fishing, account for a significant number of shark attack cases, with 419 and 328 incidents, respectively. These activities involve the use of bait and blood, which can attract sharks to the vicinity, increasing the risk of encounters.
+- __Passive Activities:__ Activities such as bathing, wading, and standing are also associated with shark attack cases, albeit to a lesser extent compared to more active pursuits like surfing and swimming. Despite being relatively passive activities, individuals engaged in these activities are still susceptible to shark encounters, highlighting the unpredictable nature of shark behavior.
+- __Diving and Snorkeling:__ Diving and snorkeling, which involve exploring underwater environments, have recorded fewer shark attack cases compared to other activities. However, these activities still carry inherent risks, especially in areas known to have high shark populations or where feeding behavior occurs.
+- It is important to note that we have rows of data where the case activity wasn't provided, so we classfied this activity as "Not Provided" which has 511 cases. These cases highlight potential underestimation of risks associated with water-based activities and emphasize the importance of improving reporting completeness. 
+
