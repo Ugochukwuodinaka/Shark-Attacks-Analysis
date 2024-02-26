@@ -209,4 +209,4 @@ You can view and interact with this dashboard report on Shark Attacks (1900-2017
 - __Fisheries Management:__ There should be an implementation of sustainable fishing practices to maintain healthy shark populations and also, a collaboration with fishing communities to reduce incidental catches.
 - __Community Engagement:__ There should be a collaboration fostered among stakeholders for comprehensive strategies, a promotion of citizen science initiatives and beach clean-ups for community involvement
 
-## Thnak You For Following Through!
+## Thank You For Following Through!
