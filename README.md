@@ -56,6 +56,13 @@ This dataset is made up of a single table of data with 16 columns and 6,091 rows
 - __Species:__ Specifies the shark species involved in the attack, if known.
 - __Investigator or Source:__ Provides information about the source of the data or the investigator who documented the shark attack incident.
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
 
 ### Tools Used
 1. Power Query Editor
@@ -201,3 +208,5 @@ You can view and interact with this dashboard report on Shark Attacks (1900-2017
 - __Technology and Innovation:__ There should be an investment in shark repellent technologies and a development of wearable safety devices for water enthusiasts.
 - __Fisheries Management:__ There should be an implementation of sustainable fishing practices to maintain healthy shark populations and also, a collaboration with fishing communities to reduce incidental catches.
 - __Community Engagement:__ There should be a collaboration fostered among stakeholders for comprehensive strategies, a promotion of citizen science initiatives and beach clean-ups for community involvement
+
+## Thnak You For Following Through!
