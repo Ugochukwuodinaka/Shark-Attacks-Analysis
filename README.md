@@ -83,7 +83,7 @@ This dataset is made up of a single table of data with 16 columns and 6,091 rows
 
 ### Data Cleaning, Transformation and Loading using the Excel and Power Query Editor:
 1. Changed the columns
-2. Teh total number of data rows before cleaning was 6,091 rows and it was reduced to 5,940 rows after cleaning.
+2. The total number of data rows before cleaning was 6,091 rows and it was reduced to 5,940 rows after cleaning.
 
 
 
