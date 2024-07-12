@@ -111,8 +111,7 @@ This dataset has a single data table with 16 columns and 6,091 rows of data. Bel
 <br />
 
 **Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Shark-Attacks-Analysis/blob/main/SHARK%20ATTACKS%20DATA%20ANALYSIS.pbix).
-
+- Below is a screenshot of a part of the cleaned data in power query editor:
 ![](images/Power_Query_File_Screenshot.png)
 <br />
 <br />
@@ -132,7 +131,7 @@ No data modelling was required since we need just a table for the analysis.
 <br />
 
 ### Project Analysis:
-From the analysis, i made the following Key findings below:
+From the analysis, i made the below Key findings:
 - The Total Number of Shark Attack Cases is __5,956.__
 - The Total Number of Survivors are __4,341.__
 - The Total Number of Fatalities are __1,515.__
@@ -142,31 +141,31 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Top10_Cases_By_Activity.jpg" width="300">
 
 - **Casualty Cases By Activity:**
-- In my analysis of the top 10 shark attack cases by activity, valuable insights are provided into the activities most commonly associated with shark-human interactions. Here are some key observations and insights:
-- __Surfing Tops:__ Surfing emerges as the activity with the highest number of shark attack cases, totaling 934 incidents. This finding is consistent with the known behavior of sharks, which may mistake surfers paddling on surfboards for prey due to their silhouette and movement resembling that of potential prey species.
-- __Swimming Vulnerability:__ Swimming ranks second in terms of shark attack cases, with 861 incidents recorded. Swimmers often spend extended periods in the water, potentially increasing the likelihood of encountering sharks. Additionally, swimmers may inadvertently attract sharks by splashing and creating disturbance in the water.
-- __Fishing and Spear Fishing:__ Fishing-related activities, including fishing and spear fishing, account for a significant number of shark attack cases, with 419 and 328 incidents, respectively. These activities involve the use of bait and blood, which can attract sharks to the vicinity, increasing the risk of encounters.
-- __Passive Activities:__ Activities such as bathing, wading, and standing are also associated with shark attack cases, albeit to a lesser extent compared to more active pursuits like surfing and swimming. Despite being relatively passive activities, individuals engaged in these activities are still susceptible to shark encounters, highlighting the unpredictable nature of shark behavior.
-- __Diving and Snorkeling:__ Diving and snorkeling, which involve exploring underwater environments, have recorded fewer shark attack cases compared to other activities. However, these activities still carry inherent risks, especially in areas known to have high shark populations or where feeding behavior occurs.
-- It is important to note that we have rows of data where the case activity wasn't provided, so we classfied this activity as "Not Provided" which has 511 cases. These cases highlight potential underestimation of risks associated with water-based activities and emphasize the importance of improving reporting completeness. 
+My analysis of the top 10 shark attack cases by activity provides insightful views into the activities that correspond to shark-human interaction. Here are some key observations and insights:
+-__Surfing Tops:_ Surfing tops the list of activities with the highest number of shark attacks, at 934 incidents. This can be understood by the fact that surfers on the surfboards appear to sharks as prey due to their silhouette and motion, for sharks are known to mistake from below the profile of surfers for resembling potential prey species.
+__Swimming Vulnerability:_ There are recorded 861 cases of shark attack for swimming. Swimmers normally stay in the water for a longer period, which may increase their likelihood of encountering sharks. Shark attraction can also be facilitated by the splashing and disturbing in the water by swimmers.
+__Fishing and Spear Fishing mph__. With fishing, cases of shark attacks in the activities of fishing and spearfishing are astronomically high, at 419 and 328, respectively. Bait and blood chumming form a significant part of activities associated with these two foregoing activities. Chumming tends to attract sharks to an area, considerably improving the chances of encounters.
+Other activities such as bathing, wading, and standing have also been involved in shark attack cases, although to much smaller degrees compared with surfing and swimming. Whereas these two activities may be considered a bit more passive compared to active activities like surfing and swimming, it still shows that people engaged in these activities are not exempt from shark encounters due to the nature of their behavior.
+- __Diving and Snorkeling:_ Shark attacks in diving and snorkeling have been much fewer compared to other activities because it is simply underwater sightseeing. However, the activity still has a degree of risk associated with locations that are known to have sharks or feeding behaviors of these creatures.
+We have several rows of data in our results where case activity was not provided. We have classified this activity as "Not Provided" - 511 cases. These cases demonstrate a possible underestimate of the risks associated with water-based activities and underline the need for improved completeness in reporting.
 <br />
 <br />
 
 - <img src="images/No_of_Cases_By_Time_of_Day.jpg" width="300">
 
 - **Number of Cases By Time of Day:**
-- The analysis on the number of shark attack cases by time of day provides insights attacks distribution across the different periods of the day. Here are some key observations and insights:
-- __Unprovided Cases Prevalence:__ The category of unprovided cases, totaling 3,146 instances, stands out as the highest among all time categories. This suggests a significant portion of the dataset lacks specific information regarding the time of day when shark attacks occurred. The prevalence of unprovided cases underscores the importance of complete and accurate data collection for conducting thorough analyses and understanding temporal patterns in shark attacks.
-- __Afternoon Activity:__ Afternoon emerges as the time period with the second-highest number of shark attack cases, totaling 1,101 instances. The afternoon hours typically coincide with peak recreational activities in coastal areas, such as swimming, surfing, and diving, which may contribute to increased human presence in the water and higher likelihood of shark encounters.
-- __Morning and Evening Incidents:__ Shark attack cases during the morning and evening hours are also notable, with 942 and 606 cases recorded, respectively. These time periods likely represent times when individuals engage in water-based activities, albeit to a lesser extent compared to the afternoon. Factors such as varying environmental conditions, prey availability, and human behavior may influence shark activity and interactions during these times of day.
-- __Nighttime Vulnerability:__ The dataset records the fewest shark attack cases during the night, with only 161 instances reported. Nighttime activities in coastal areas are typically less common due to reduced visibility and safety concerns, potentially resulting in fewer opportunities for shark-human interactions. However, individuals engaged in night fishing or other nocturnal activities may still be at risk of encountering sharks.
+The Time-of-day analysis for the cases of shark attacks gives insights into how the attacks are distributed across the different periods of the day. Some key observations and insights are as follows:
+- __Unprovided Cases Prevalence:__ A total of 3,146 instances fall under the category of unprovided cases, which is far higher in all categories of time. It thus means that a good percentage of the dataset has no information on the exact time of day when shark attacks occurred. Such prevalence of the unprovided cases reiterates that complete and accurate data collection is extremely critical when doing elaborate analysis and trying to understand temporal patterns associated with shark attacks.
+- __Afternoon Activity__: Afternoon is the second most frequent period, accounting for 1,101 cases of shark attacks. Afternoons usually form the peak times for recreation at the beach or coastal areas, entailing swimming, surfing, and diving, and hence invite more human presence in the water to interact with sharks.
+- __Morning and Evening Incidents:_ Other important cases of shark attacks are during morning and evening hours, Cook:942 and 606 respectively. These hours may prove to be times when people go out in the water though not as much as during the afternoon. Factors such as changing environmental conditions, prey, and human behavior could impact shark activity and interactions with humans at these times of the day.
+__Nighttime Vulnerability__: According to the dataset, there have been 161 cases of shark attacks at night. Generally, activities on the coast are lesser compared with daylight hours because of reduced visibility and safety concerns; fewer shark-human interaction opportunities are present. However, for those who engage in night fishing or other activities at such hours, there can still be chances of encountering sharks.
 <br />
 <br />
 
 - <img src="images/No_of_Cases_By_Sex.jpg" width="300">
 
 - **Number of Cases By Sex:**
-- The data on the number of shark attack cases by sex provides insights into the gender distribution among individuals involved in these attacks. Key observations and insights on this is stated below:
+The data on the number of shark attack cases by sex provides insights into the gender distribution among individuals involved in these attacks. Key observations and insights on this is stated below:
 - __Male Majority:__ The dataset indicates a significant predominance of male individuals among shark attack cases, with 4,820 incidents recorded. This finding suggests that males are more frequently involved in activities or situations that increase the likelihood of shark encounters, such as surfing, swimming, and diving, which are traditionally male-dominated recreational pursuits in coastal areas.
 - __Female Representation:__ Female individuals account for a substantially lower number of shark attack cases, with 591 incidents reported. This disparity may reflect differences in activity participation rates between genders, with females potentially engaging in water-based activities less frequently or in different contexts compared to males. Additionally, societal factors or cultural norms may influence gender-specific behaviors and risk-taking tendencies in aquatic environments.
 - __Unprovided Sex Information:__ A notable portion of the dataset comprises cases where the sex of the individual involved was not provided and was categorized as N/A, totaling 537 instances. The absence of sex information for these cases underscores the need for more enhanced data collection practices to ensure accurate reporting and analysis of shark attack incidents
