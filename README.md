@@ -19,6 +19,11 @@ The __Shark Attacks Analysis (1900-2017)__ project aims to investigate and analy
 
 
 ### Objectives:
+### Introduction:
+The __Shark Attacks Analysis (1900-2017)__ project aims to investigate and analyze global shark attack data to gain insights into the patterns, trends, and factors associated with shark attacks. Through the examining of this data, geographical locations, species involved, environmental conditions, and human activities, the project seeks to provide an understanding of shark attacks, their frequency, and potential risk factors. Sharks Atacks Analysis contains Shark attacks reported over the past 100 years, including location, activity, victim info (name, gender, age), shark species, etc. The project aims to explore and analyze sharks attacks all around the world.
+
+
+### Objectives:
 - Analyze the data on shark attacks annually since 1900, and identify trends and patterns in shark attack occurrences over time.
 - Identify the countries with the highest reported incidences of shark attacks and determine the specific areas and locations within those countries that exhibit higher levels of risk, providing insights into geographic hotspots for shark-human interactions.
 - Practice data cleaning skills by preparing the raw dataset for analysis, ensuring consistency, accuracy, and suitability for further investigation.
@@ -38,25 +43,27 @@ The __Shark Attacks Analysis (1900-2017)__ project aims to investigate and analy
 <br />
 
 ### Dataset Overview
-The dataset used in this analysis is the "Attacks.csv" and was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The "Attacks.csv" dataset contains information on shark attacks documented over a period of time. The dataset provides insights into various aspects of shark-human interactions, including the location, date, time, severity of injuries, shark species involved, and other relevant details pertaining to each recorded shark attack incident. You can access the dataset [here](attacks.csv).
+The dataset used in this analysis is the "Attacks.csv" and was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The "Attacks.csv" dataset contains information on shark attacks documented over some time. The dataset provides insights into various aspects of shark-human interactions, including the location, date, time, severity of injuries, shark species involved, and other relevant details about each recorded shark attack incident. You can access the dataset [here](attacks.csv).
 
-This dataset is made up of a single table of data with 16 columns and 6,091 rows of data. Below is a description of the columns in this dataset for a better understanding of this analysis:
-- __Case Number:__ A unique identifier for each shark attack incident.
-- __Date:__ The date when the shark attack occurred.
-- __Year:__ The year in which the shark attack took place.
-- __Type:__ Describes the type of attack (e.g., provoked, unprovoked, invalid, etc.).
-- __Country:__ The country where the shark attack occurred.
-- __Area:__ The specific area or region within the country where the shark attack occurred.
-- __Location:__ Provides details about the location of the shark attack (e.g., beach name, geographical coordinates, etc.).
-- __Activity:__ Describes the activity being performed by the victim at the time of the shark attack.
-- __Name:__ Name of the individual involved in the shark attack incident.
-- __Sex:__ Gender of the individual involved in the shark attack.
-- __Age:__ Age of the individual involved in the shark attack.
-- __Injury:__ Specifies the type and severity of injuries sustained during the shark attack.
-- __Fatal (Y/N):__ Indicates whether the shark attack resulted in a fatality (Y for yes, N for no).
-- __Time:__ The time of day when the shark attack occurred.
-- __Species:__ Specifies the shark species involved in the attack, if known.
-- __Investigator or Source:__ Provides information about the source of the data or the investigator who documented the shark attack incident.
+This dataset has a single data table with 16 columns and 6,091 rows of data. Below is a description of the columns in this dataset for a better understanding of this analysis:
+| Table                              | Field                    | Description                            |            
+|:-----------------------------------|:------------------------ |:-------------------------------------- |
+|attacks.csv                         | Case Number              | A unique identifier for each shark attack incident.   |
+|                                    | Date                     | The date when the shark attack occurred.     |
+|                                    | Year                     | The year in which the shark attack took place.        |
+|                                    | Type                     | Describes the type of attack (e.g., provoked, unprovoked, invalid, etc.).       |
+|                                    | Country                  | The country where the shark attack occurred.        |
+|                                    | Area                     | The specific area or region within the country where the shark attack occurred.        |
+|                                    | Location                 | Provides details about the location of the shark attack (e.g., beach name, geographical coordinates, etc.).      |
+|                                    | Activity                 | Describes the activity being performed by the victim at the time of the shark attack.       |
+|                                    | Name                     | Name of the individual involved in the shark attack incident.         |
+|                                    | Sex                      | Gender of the individual involved in the shark attack.         |
+|                                    | Age                      | Age of the individual involved in the shark attack.      |
+|                                    | Injury                   | Specifies the type and severity of injuries sustained during the shark attack.        |
+|                                    | Fatal (Y/N)              | Indicates whether the shark attack resulted in a fatality (Y for yes, N for no).       |
+|                                    | Time                     | The time of day when the shark attack occurred.    |
+|                                    | Species                  | Specifies the shark species involved in the attack, if known.        |
+|                                    | Investigator or Source   | Provides information about the source of the data or the investigator who documented the shark attack incident.     |
 <br />
 
 ### Skills Utilized
