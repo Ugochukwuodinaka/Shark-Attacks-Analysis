@@ -92,8 +92,16 @@ This dataset has a single data table with 16 columns and 6,091 rows of data. Bel
 <br />
 
 ### Data Cleaning, Transformation and Loading using the Excel and Power Query Editor:
-1. Changed the columns
-2. The total number of data rows before cleaning was 6,091 rows and it was reduced to 5,940 rows after cleaning.
+1. Removed a few data rows with outdated, irregular, unreadable, duplicate, empty, or wrong information in the __"Case Number"__ column and other columns from the table.
+2. Created and added a new column - __"Age_Band"__ using the "If Statement" in the power query editor to display the age range of shark attack victims.
+3. Created and added a new column - __"Time_Period"__ using the "If Statement" in the power query editor to display the period (morning - night) that shark attacks on victims happened.
+4. Corrected the __"Time"__ column using the right time data format and corrected all column rows.
+5. Used __"N/A"__ to fill-up the __"Sex"__ column rows without information.
+6. Used __"N/A"__ to fill-up the __"Fatal (Y/N)"__ column rows without information.
+7. Used __"Unknown"__ to fill-up the __"Age Band"__ column rows without information.
+8. Re-ordered the columns in the table properly in the Power Query Editor.
+9. Made sure that all the table columns returned __"100%"__ valid using the column quality feature of the Power Query Editor. 
+10. The total number of data rows before data cleaning was __"6,091"__ rows and was reduced to __"5,940"__ rows after cleaning.
 <br />
 
 **Raw Data**
