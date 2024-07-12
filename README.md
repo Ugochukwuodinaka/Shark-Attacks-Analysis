@@ -117,7 +117,7 @@ This dataset has a single data table with 16 columns and 6,091 rows of data. Bel
 <br />
 
 ## Data Modelling
-No data modelling was required since we have just a single table in this analysis.
+No data modeling was required since a single table was utilized in this analysis.
 <br />
 <br />
 
