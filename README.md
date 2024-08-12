@@ -77,9 +77,8 @@ This dataset has a single data table with 16 columns and 6,091 rows of data. Bel
 ### Tools Used
 1. Power Query Editor
     - Was used to:
-        1. Extract,
-        2. Transform, and
-        3. Load all the datasets for this analysis.
+        1. Clean
+        2. Transform the dataset for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
